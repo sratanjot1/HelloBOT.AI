@@ -1,11 +1,11 @@
 # HelloBOT.AI
 
-HelloBOT.AI is an AI-powered voice assistant that listens to prompts and responds intelligently. It leverages the Gemini Pro OpenAI API and Faster Whisper for speech recognition. The assistant activates on hearing "Hello" and processes the input to provide accurate responses.
+HelloBOT.AI is an AI-powered voice assistant that listens to prompts and responds intelligently. It leverages the Gemini Pro 1 latest OpenAI API and Faster Whisper for speech recognition. The assistant activates on hearing "Hello" and processes the input to provide accurate responses.
 
 ## Features
 
 - Voice Recognition: Uses the `speech_recognition` library and `Faster Whisper` for efficient and accurate speech-to-text conversion.
-- AI Responses: Utilizes OpenAI's API to generate intelligent responses.
+- AI Responses: Utilizes the Gemini Pro 1 latest OpenAI API to generate intelligent responses.
 - Environment Management: Uses `dotenv` for managing environment variables.
 - Audio Handling: `pyaudio` for capturing and playing audio.
 
@@ -64,4 +64,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 - [OpenAI](https://openai.com/)
 - [Google Generative AI](https://ai.google/tools/)
+- [Gemini Pro 1 latest](https://example.com/gemini-pro)  <!-- Update this link with the actual one if available -->
 - [Faster Whisper](https://github.com/openai/whisper)
+
